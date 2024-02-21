@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Salma
-![Software Tester](https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6)
+![](https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6)
 
 I am a Software Tester who is passionate about product quality and customer satisfaction. I like to automate applications to reduce manual efforts and am enthusiastic to learn new test automation and cloud technologies. 
 
@@ -12,4 +12,5 @@ Skills: Core Java, TypeScript, Selenium, Cypress, PostMan.
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/shaiksalmi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/shaik-salma29//)  
+
 
