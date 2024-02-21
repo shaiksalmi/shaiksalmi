@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Salma Shaik</h1>
 <h3 align="center">A passionate Software Test Engineer from India</h3>
 
-<img align="right" alt="coding"width="400"src="https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/4X/2/7/4/274d40f45b3f56a908c194f494eec2319ca3063b.gif">
+<img align="right" alt="coding"width="400"src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">
 
 - 👯 I’m looking to collaborate on **new projects**
 
