@@ -5,7 +5,7 @@ I am a Software Tester who is passionate about product quality and customer sati
 
 Skills: Core Java, TypeScript, Selenium, Cypress, PostMan.
 
-- 🔭 I’m currently working on Freelance Project 
+- 🔭 I’m currently working on a Freelance Project 
 - 🌱 I’m currently learning JavaScript 
 - 👯 I’m looking to collaborate on github 
 - 💬 Ask me about Automation Testing 
