@@ -1,9 +1,11 @@
-### Hi there 👋, I'm Salma
-![](https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6)
+![logo](https://github.com/shaiksalmi/shaiksalmi/blob/main/WhatsApp%20Image%202024-02-21%20at%2016.58.35_4a17a39e.jpg)
 
+### Hi there 👋, I'm Salma
+<img align="right"  src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">
 I am a Software Tester who is passionate about product quality and customer satisfaction. I like to automate applications to reduce manual efforts and am enthusiastic to learn new test automation and cloud technologies. 
 
-Skills: Core Java, TypeScript, Selenium, Cypress, PostMan.
+
+Skills: Core Java, TypeScript, Selenium, Cypress, TesNG, ResrAssured, and PostMan.
 
 - 🔭 I’m currently working on a Freelance Project 
 - 🌱 I’m currently learning JavaScript 
